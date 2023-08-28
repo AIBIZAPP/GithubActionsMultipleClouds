@@ -9,9 +9,9 @@ Original file is located at
 # <font color = "blue"><center> Question generation via GPT
 """
 
-from google.colab import drive
+#from google.colab import drive
 
-drive.mount("/content/drive")
+#drive.mount("/content/drive")
 
 #pip install openai
 
