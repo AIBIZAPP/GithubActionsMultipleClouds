@@ -13,7 +13,7 @@ from google.colab import drive
 
 drive.mount("/content/drive")
 
-pip install openai
+#pip install openai
 
 """## Choice1 GPT3.5"""
 
